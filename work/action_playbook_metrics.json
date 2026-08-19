@@ -1,0 +1,11 @@
+{
+  "total_rows": 249689,
+  "base_rate": 0.24999499377225268,
+  "reason_code_counts": {
+    "monitor": 187268,
+    "moderate_confidence_review": 37453,
+    "high_confidence_review": 24968
+  },
+  "high_confidence_low_impression_share": 0.993391541172701,
+  "high_confidence_ctr_zero_share": 0.881528356296059
+}
